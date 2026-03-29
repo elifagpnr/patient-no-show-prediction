@@ -31,5 +31,5 @@ Final AUC Score: 0.50738
 
 ## Notes
 
-Dataset is not included due to size.
-Developed as part of the Data League '26 competition.
+* Dataset is not included due to size.
+* Developed as part of the Data League '26 competition.
